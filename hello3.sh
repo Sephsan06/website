@@ -7,6 +7,6 @@ echo -n "Enter your name : "
 read reply
 
 if [[ $reply ]]; then
-  echo "Hello $name, welcome to programming hell"
+  echo "Hello $reply, welcome to programming hell"
   #statements
 fi
